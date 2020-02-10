@@ -39,4 +39,11 @@ Out[12]:
 Name: 1, dtype: float64
 ```
 
+### Pandas data can handle ( JSON,CSV)
+- Text Files
+- Binary files
+- Database 
+
+
+
 
